@@ -1,0 +1,154 @@
+{
+  "preData" : {
+    "reportName": "Nino分析结题报告",
+    "companyName": "Nino有限责任公司",
+    "productName": "ninoEasyUsePoi",
+    "researchGoal": "方便使用Poi",
+    "plannedSampleTotle": "12000",
+    "collectedSampleCount": "12000",
+    "contractNo": "12345567",
+    "suppressGraphWithSingleResult": true,
+    "surfacePicture": "https://jsd.onmicrosoft.cn/gh/hininojay/images/source/img/postImages/%E6%B5%B71.jpg"
+  },
+  "wordBody": [
+    {
+      "type": "paragraph",
+      "align": "center",
+      "firstLineIndet": "0",
+      "spacingBetween": "1.5",
+      "textList": [
+        {
+          "fontFamily": "黑体",
+          "fontSize": "16",
+          "boldFlag": "true",
+          "color": "000000",
+          "content": [
+            "声 明"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "firstLineIndet": "0",
+      "spacingBetween": "1.5",
+      "textList": [
+        {
+          "fontFamily": "宋体",
+          "fontSize": "14",
+          "boldFlag": "false",
+          "color": "000000",
+          "content": [
+            "    {companyName}，{productName}"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "firstLineIndet": "0",
+      "spacingBetween": "1.5",
+      "textList": [
+        {
+          "fontFamily": "宋体",
+          "fontSize": "14",
+          "boldFlag": "false",
+          "color": "000000",
+          "content": [
+            "    这一段正文。"
+          ]
+        }
+      ],
+      "pageBreak": "true"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "firstLineIndet": "0",
+      "spacingBetween": "1.5",
+      "textList": [
+        {
+          "fontFamily": "黑体",
+          "fontSize": "16",
+          "boldFlag": "true",
+          "color": "000000",
+          "content": [
+            "{reportName}数据分析结题报告"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "firstLineIndet": "0",
+      "spacingBetween": "1.5",
+      "textList": [
+        {
+          "fontFamily": "黑体",
+          "fontSize": "16",
+          "boldFlag": "true",
+          "color": "000000",
+          "content": [
+            "背景"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "firstLineIndet": "0",
+      "spacingBetween": "1.5",
+      "textList": [
+        {
+          "fontFamily": "宋体",
+          "fontSize": "14",
+          "boldFlag": "false",
+          "color": "000000",
+          "content": [
+            "    为明确{companyName}{productName}在真实世界的{researchGoal}，本Word拟{productName}，进行Word研究。"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "firstLineIndet": "0",
+      "spacingBetween": "1.5",
+      "textList": [
+        {
+          "fontFamily": "黑体",
+          "fontSize": "16",
+          "boldFlag": "true",
+          "color": "000000",
+          "content": [
+            "方法"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "rows": "3",
+      "cols": "2",
+      "tableContent": [
+        [
+          "第一行第一列",
+          "第一行第二列"
+        ],
+        [
+          "第二行第一列",
+          "第二行第二列"
+        ],
+        [
+          "第三行第一列",
+          "第三行第二列"
+        ]
+      ]
+    }
+  ]
+}
